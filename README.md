@@ -7,6 +7,10 @@ A partir de dados de consumo de energia de clientes, nosso trabalho é agrupar o
   <img src= "k-means.png"width=80% >
 </p>
 
+A base de dados utilizada em nosso projeto pode ser acessada pelo link abaixo:
+
+https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+
 Vamos executar as seguintes tarefas:
 
 1- Tratar os valores ausentes nos dados.
